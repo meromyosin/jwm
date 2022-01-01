@@ -2,7 +2,7 @@
 
 
 <details>
-## <summary>Screenshots</summary>
+## <summary color=red>Screenshots</summary>
 
 [Imgur](https://imgur.com/a/78V8hyS) 
     
