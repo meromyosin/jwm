@@ -3,29 +3,32 @@ my jwm config file
 
 
 
-features
-    
-    random smooth gradient wallpaper(n each login)
-    menu reloads on login
-    made to like traditional desktop
-    tons of underhood config
-    check screen shots
+##Screenshots
+![](https://imgur.com/a/78V8hyS)
 
-working on
+
+##features
+    
+    random smooth gradient wallpaper(on each login)
+    menu reloads on login
+    made to look like traditional desktop
+    tons of underhood config changes
+
+##working on
 
     desktop icon
-    walpaper
+    wallpaper
     desktop right click > add create new
     search menu for apps only
 
-Tested on Manjaro architect with jwm manger(bare minimum ie cli+lightdm+jwm+netowrk+sound)
+##Tested on Manjaro architect with jwm manger(bare minimum ie cli+lightdm+jwm+netowrk+sound)
 
-for it to work correctly u need to install
+##for it to work correctly u need to install
 
     network manager
     nautilus
     volumeicon
-    mjwm(build from https://github.com/chiku/mjwm)
+    mjwm(build it from https://github.com/chiku/mjwm)
     lxpolkit(ie polkit)
     libnotifyd
     xfce4-power-manager
