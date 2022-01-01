@@ -2,12 +2,13 @@
 my jwm config file
 
 
+<details>
+  <summary>Click to expand!</summary>
 
-<b>
-<a>qq</a>
+[a](https://imgur.com/a/78V8hyS) 
     
-[a](https://imgur.com/a/78V8hyS)
-
+![b](https://i.imgur.com/rTZ6ZDr.png)
+    
 ![b](https://i.imgur.com/rTZ6ZDr.png)
 
 ![c](https://i.imgur.com/1UHTI59.png)
@@ -15,17 +16,6 @@ my jwm config file
 ![d](https://i.imgur.com/w6Mfk7o.png)
 
 ![e](https://i.imgur.com/cHuxSoN.png)
-
-</b>
-
-<details>
-  <summary>Click to expand!</summary>
-  
-![b](https://i.imgur.com/rTZ6ZDr.png)
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
 </details>
 
 ## features
