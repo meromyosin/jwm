@@ -17,14 +17,14 @@
 ![e](https://i.imgur.com/cHuxSoN.png)
 </details>
 
-## features
+## Features
     
     random smooth gradient wallpaper(on each login)
     menu reloads on login
     made to look like traditional desktop
     tons of underhood config changes
 
-## working on
+## Working on
 
     desktop icon
     wallpaper
