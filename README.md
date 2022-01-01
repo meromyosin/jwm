@@ -1,8 +1,8 @@
 # My jwm config file
 
 
-<qwer>
-  <tyui>Screenshots</tyui>
+<details>
+## <summary>Screenshots</summary>
 
 [Imgur](https://imgur.com/a/78V8hyS) 
     
@@ -15,7 +15,7 @@
 ![d](https://i.imgur.com/w6Mfk7o.png)
 
 ![e](https://i.imgur.com/cHuxSoN.png)
-</qwer>
+</details>
 
 ## features
     
