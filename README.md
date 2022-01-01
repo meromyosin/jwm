@@ -3,13 +3,20 @@ my jwm config file
 
 
 
-## Screenshots
+<b>
+<a> ## Screenshots </a>
+
+[](https://imgur.com/a/78V8hyS)
+
 ![](https://i.imgur.com/rTZ6ZDr.png)
 
 ![](https://i.imgur.com/1UHTI59.png)
 
 ![](https://i.imgur.com/w6Mfk7o.png)
 
+![](https://i.imgur.com/cHuxSoN.png)
+
+</b>
 
 ## features
     
