@@ -5,15 +5,16 @@ my jwm config file
 
 <b>
 <a>qq</a>
-[](https://imgur.com/a/78V8hyS)
+    
+[a](https://imgur.com/a/78V8hyS)
 
-![](https://i.imgur.com/rTZ6ZDr.png)
+![b](https://i.imgur.com/rTZ6ZDr.png)
 
-![](https://i.imgur.com/1UHTI59.png)
+![c](https://i.imgur.com/1UHTI59.png)
 
-![](https://i.imgur.com/w6Mfk7o.png)
+![d](https://i.imgur.com/w6Mfk7o.png)
 
-![](https://i.imgur.com/cHuxSoN.png)
+![e](https://i.imgur.com/cHuxSoN.png)
 
 </b>
 
