@@ -1,9 +1,8 @@
-# jwm-config
-my jwm config file
+# My jwm config file
 
 
 <details>
-  <summary>Screenshots</summary>
+  <summary>## Screenshots</summary>
 
 [Imgur](https://imgur.com/a/78V8hyS) 
     
