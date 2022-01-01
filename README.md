@@ -4,8 +4,7 @@ my jwm config file
 
 
 <b>
-<a> ## Screenshots </a>
-
+<a>qq</a>
 [](https://imgur.com/a/78V8hyS)
 
 ![](https://i.imgur.com/rTZ6ZDr.png)
