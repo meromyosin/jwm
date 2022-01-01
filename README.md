@@ -3,9 +3,9 @@ my jwm config file
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Screenshots</summary>
 
-[a](https://imgur.com/a/78V8hyS) 
+[Imgur](https://imgur.com/a/78V8hyS) 
     
 ![b](https://i.imgur.com/rTZ6ZDr.png)
     
@@ -34,14 +34,21 @@ my jwm config file
 
 ## Tested on Manjaro architect with jwm manger(bare minimum ie cli+lightdm+jwm+netowrk+sound)
 
-## for it to work correctly u need to install
+## Requirements
 
     network manager
+    
     nautilus
+    
     volumeicon
+    
     mjwm(build it from https://github.com/chiku/mjwm)
+    
     lxpolkit(ie polkit)
+    
     libnotifyd
+    
     xfce4-power-manager
+    
     paprius icon theme
 
