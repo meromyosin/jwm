@@ -18,6 +18,16 @@ my jwm config file
 
 </b>
 
+<details>
+  <summary>Click to expand!</summary>
+  
+![b](https://i.imgur.com/rTZ6ZDr.png)
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 ## features
     
     random smooth gradient wallpaper(on each login)
