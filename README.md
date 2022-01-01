@@ -2,7 +2,7 @@
 
 
 <details>
-## <summary size=12>Screenshots</summary>
+## <summary size=24>Screenshots</summary>
 
 [Imgur](https://imgur.com/a/78V8hyS) 
     
