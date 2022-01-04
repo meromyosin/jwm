@@ -1,6 +1,3 @@
-# My jwm config file
-
-
 <details>
 <a href="https://imgur.com/a/78V8hyS">Imgur</a>
 <summary>Screenshots (click here to expand)</summary>
