@@ -3,5 +3,5 @@ remote_theme: lewismiddleton/cayman-dark
 github:
   is_project_page: false
 
-title: [JWM Config]
-description: [My jwm config file]
+title: JWM Config
+description: My jwm config file
