@@ -3,7 +3,7 @@
 
 <details>
     
-<summary>Screenshots</summary>
+<summary>Screenshots (click here to expand)</summary>
 
 [Imgur](https://imgur.com/a/78V8hyS) 
     
@@ -16,6 +16,7 @@
 ![d](https://i.imgur.com/w6Mfk7o.png)
 
 ![e](https://i.imgur.com/cHuxSoN.png)
+    
 </details>
 
 ## Features
