@@ -3,21 +3,19 @@
 
 <details>
     
-      <summary>
-            ###Screenshots###
-      </summary>
+      <summary>###Screenshots###</summary>
 
-            [Imgur](https://imgur.com/a/78V8hyS) 
+    [Imgur](https://imgur.com/a/78V8hyS) 
     
-            ![b](https://i.imgur.com/rTZ6ZDr.png)
+    ![b](https://i.imgur.com/rTZ6ZDr.png)
     
-            ![b](https://i.imgur.com/rTZ6ZDr.png)
+    ![b](https://i.imgur.com/rTZ6ZDr.png)
 
-            ![c](https://i.imgur.com/1UHTI59.png)
+    ![c](https://i.imgur.com/1UHTI59.png)
 
-            ![d](https://i.imgur.com/w6Mfk7o.png)
+    ![d](https://i.imgur.com/w6Mfk7o.png)
 
-            ![e](https://i.imgur.com/cHuxSoN.png)
+    ![e](https://i.imgur.com/cHuxSoN.png)
 </details>
 
 ## Features
