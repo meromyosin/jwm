@@ -1,1 +1,1 @@
-[visit](https://gusmeadows.github.io/jwm)
+[visit](https://meromyosin.github.io/jwm)
